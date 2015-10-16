@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Termine
 ---
-
+# Termine
 Nächste Treffen:
 
 Wann: Immer am 10. eines Monats um  20.00 Uhr
