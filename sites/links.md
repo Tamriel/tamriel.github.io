@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Links
 ---
+# Links
 offener Gemeinschaftsgarten Wurzelwerk in Oldenburg
 
 Foodsharing Oldenburg bei Facebook
