@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Neueinsteiger*innen aufgepasst!
 ---
-
-Neueinsteiger*innen aufgepasst!
 
 Für alle, die die Foodcoop Oldenburg kennen lernen und_oder mehr über das Konzept von Foodcoops erfahren wollen:
 
