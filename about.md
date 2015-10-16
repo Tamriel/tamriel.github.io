@@ -3,28 +3,33 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Wir haben eine selbstverwaltete Lebensmittelkooperative in der Stadt Oldenburg in Niedersachsen gegründet, um regionale, biologische, saisonale Lebensmittel zu fairen Preisen einer breiteren Masse zur Verfügung zu stellen.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Viele Menschen möchten gerne „gute“ Lebensmittel kaufen, können sich dies aber oft nicht leisten. Durch eine Food-Coop möchten wir die Ebene des Zwischenhandels umgehen und direkt mit den Erzeuger*innen kooperieren und (fair)handeln.Langfristiges Ziel ist es dabei, einerseits direkten Einfluss auf das Marktsegment (um z.B. alte Apfelsorten zu erhalten), andererseits niedrigere Einkaufspreise trotz guter Einkünfte für die Erzeuger*innen zu erreichen.
 
-There are currently two themes built on Poole:
+Wir sind eine im Kern von von Student*innen der Uni Oldenburg gegründete Initiave, freuen uns aber ganz besonders über alle nicht-Student*innen, die bei uns mitmachen, weil wir das Ganze damit auf eine breitere gesellschaftliche Basis stellen können.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Bestellungen
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Da wir derzeit noch keinen eigenen Lagerraum haben, zu dem Landwirt*innen ihre Erzeugnisse liefern könnten, kooperieren wir mit dem Oldenburger Bio-Laden Ecocion. Dadurch, dass wir Großbestellungen machen und unsere Waren selber packen erhalten wir 15% Rabatt auf alle Produkte. Die Bestellungen finden 14tägig online von Montag bis Freitag statt und werden am darauffolgenden Dienstag bei Ecocion gepackt und von den Bestellgruppen abgeholt.
 
-## Setup
+### Treffen
 
-Some fun facts about the setup of this project include:
+Um Austausch, Weiterentwicklung und gegenseitiges kennenlernen zu ermöglichen haben wir monatliche Treffen. Hier wird im Konsens entschieden und neue Pläne werden gesponnen. Damit niemand aufgrund eines bestimmten Wochentags ausgeschlossen wird haben wir uns geeinigt uns immer am 10. eines Monats zu treffen. Dadurch kommt jeder Wochentag mal dran. Wenn du neugierig bist, komm einfach vorbei!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Für eine Auflistung der Termine bzw. Wochentage siehe hier.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Wir treffen uns immer am 10. um 20 Uhr in der Uni Oldenburg, Raum A1-0-010a.  
 
-Thanks for reading!
+
+### Mitglied werden?
+
+Komm zum nächsten Treffen und/oder schreib uns eine Nachricht.                                               Wir freuen uns auf dich!
+
+Wenn du bei einem Treffen warst, bekommst du einen Zugang zum internen Bereich dieser Hompage und eine Einladung zur Bestellsoftware „FoodSoft“. Wir schalten Dich erst nach persönlichem Kontakt frei, um die Datensicherheit für alle Mitglieder der Food Coop zu gewährleisten. Außerdem finden wir es einfach schön und wichtig, dass wir uns auch persönlich untereinander kennen (lernen).
+
+Was wir von dir brauchen:
+* Persönlicher Kontakt
+* Deinen Benutzernamen
+* Deine Mailadresse
+* Die Bestellgruppe in der FoodSoft, der du dich zugehörig fühlst (sonst bekommst du eine eigene Gruppe, dann schick uns bitte eine Mobilnummer mit).
