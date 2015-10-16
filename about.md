@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Über uns
 ---
 
 Wir haben eine selbstverwaltete Lebensmittelkooperative in der Stadt Oldenburg in Niedersachsen gegründet, um regionale, biologische, saisonale Lebensmittel zu fairen Preisen einer breiteren Masse zur Verfügung zu stellen.
