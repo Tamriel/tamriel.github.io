@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Food Coop Oldenburg
 tagline:          ''
 description:      'Wir kaufen bei ökologischen, regionalen Erzeuger*innen zu fairen Preisen gemeinschaftlich ein.'
-url:              http://foodcool.de
+url:              http://tamriel.github.io/
 baseurl:          /
 
 author:
