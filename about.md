@@ -13,7 +13,7 @@ Wir sind eine im Kern von von Student*innen der Uni Oldenburg gegründete Initia
 
 Da wir derzeit noch keinen eigenen Lagerraum haben, zu dem Landwirt*innen ihre Erzeugnisse liefern könnten, kooperieren wir mit dem Oldenburger Bio-Laden Ecocion. Dadurch, dass wir Großbestellungen machen und unsere Waren selber packen erhalten wir 15% Rabatt auf alle Produkte. Die Bestellungen finden 14tägig online von Montag bis Freitag statt und werden am darauffolgenden Dienstag bei Ecocion gepackt und von den Bestellgruppen abgeholt.
 
-![placeholder](ecocion.png)
+![placeholder]({{ site.url }}/images/ecocion.png)
 
 ### Treffen
 
