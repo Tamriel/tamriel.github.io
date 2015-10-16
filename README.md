@@ -9,3 +9,5 @@ Klicke dann auf eine Datei in der Dateiliste hier drüber. Klicke in der geöffn
 	* Der Dateiname sollte wie die anderen Beiträge sein, also z.B. `2015-06-15-beitrags-titel.md`
 	* Speichere mit der Diskette rechts
 * Den Titel und die Beschreibung der Sidebar kannst du in `_config.yml`anpassen.
+
+Wirklich jeder kann die Food Coop Website editieren, aber jede Änderung muss von einem Admin akzeptiert werden.
