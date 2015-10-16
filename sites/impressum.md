@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Impressum
 ---
-
-Diese Seite wird betrieben von der Food-Coop Oldenburg.                                                              Für Fragen, Anmerkungen, Lob und Kritik nutzt bitte das Kontaktformular. Danke.
+# Impressum
+Diese Seite wird betrieben von der Food-Coop Oldenburg. 
+Für Fragen, Anmerkungen, Lob und Kritik nutzt bitte das Kontaktformular. Danke.
 
 Verantwortlich: Raphaela Rehbach, Janek Roisch, Leonie Mazalla
 
