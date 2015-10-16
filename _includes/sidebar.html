@@ -1,11 +1,9 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h2>
-        <a href="{{ site.baseurl }}">
+        <a class="title" href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -25,7 +23,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="{{ site.impressum }}">Impressum</a>
+      <a class="sidebar-nav-item" href="{{ impressum }}">Impressum</a>
     </nav>
   </div>
 </div>
