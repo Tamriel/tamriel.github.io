@@ -2,6 +2,7 @@
 layout: page
 ---
 # Über uns
+Test
 Wir haben eine selbstverwaltete Lebensmittelkooperative in der Stadt Oldenburg in Niedersachsen gegründet, um regionale, biologische, saisonale Lebensmittel zu fairen Preisen einer breiteren Masse zur Verfügung zu stellen.
 
 Viele Menschen möchten gerne „gute“ Lebensmittel kaufen, können sich dies aber oft nicht leisten. Durch eine Food-Coop möchten wir die Ebene des Zwischenhandels umgehen und direkt mit den Erzeuger*innen kooperieren und (fair)handeln.Langfristiges Ziel ist es dabei, einerseits direkten Einfluss auf das Marktsegment (um z.B. alte Apfelsorten zu erhalten), andererseits niedrigere Einkaufspreise trotz guter Einkünfte für die Erzeuger*innen zu erreichen.
